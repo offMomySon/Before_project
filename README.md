@@ -1,5 +1,3 @@
-# Before_project
-
 # 1. 프로젝트모임 관리 어플리케이션 
 
 ## why?
